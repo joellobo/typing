@@ -1,0 +1,2046 @@
+o homem;the man
+a mulher;the woman
+eu sou;I am
+o menino;the boy
+a menina;the girl
+ele;he
+ela;she
+você;you
+a maçã;the apple
+o pão;the bread
+eu como;I eat
+a água;the water
+o leite;the milk
+eu bebo;I drink
+ele bebe;he drinks
+nós;we
+nós somos;we are
+os homens;the men
+as mulheres;the women
+nós bebemos;we drink
+bebem;drink
+a cerveja;the beer
+os meninos;the boys
+as meninas;the girls
+eles leem;they read
+o livro;the book
+nós lemos;we read
+e;and
+a carta;the letter
+eu escrevo;I write
+ela escreve;she writes
+eles gostam;they like
+com;with
+nós falamos;we speak
+nós escrevemos;we write
+eles escrevem;they write
+ela lê;she reads
+o jornal;the newspaper
+eu leio;I read
+o abacaxi;the pineapple
+bom;good
+eu gosto;I like
+ela gosta;she likes
+oi;hi
+tchau;bye
+obrigado;thank you
+sim;yes
+não;no
+o favor;the favor
+o dia;the day
+a tarde;the afternoon
+a noite;the night
+conhecer;to know
+nada;nothing
+parabéns;congratulations
+olá;hello
+desculpe;sorry
+português;Portuguese
+inglês;English
+falo;I speak
+she speaks;ela fala
+nós comemos;we eat
+eles comem;they eat
+eu cozinho;I cook
+o molho;the sauce
+a banana;the banana
+amargo;bitter
+ferver;to boil
+a garrafa;the bottle
+o almoço;thelunch
+a manteiga;the butter
+o bolo;the cake
+a lata;the can
+a cenoura;the carrot
+o queijo;the cheese
+eu tenho;I have
+ela tem;she has
+o frango;the chicken
+o chocolate;the chocolate
+o café;the coffee
+o biscoito;the cookie
+a xícara;the cup
+ela corta;she cuts
+o regime;the diet
+o jantar;the dinner
+a bebida;the drink
+o ovo;the egg
+o peixe;the fish
+o garfo;the fork
+frito;fried
+a fruta;the fruit
+o copo;the cup
+a uva;the grape
+a fome;the hunger
+o suco;the juice
+as maçãs;the apples
+os livros;the books
+as chaves;the keys
+as cartas;the letters
+as palavras;the words
+os abacaxis;the pineapples
+eles são bons;they are good
+as moscas;the flies
+os insetos;the insects
+os vinhos;the wines
+as bananas;the bananas
+as batatas;the potatoes
+o gato;the cat
+o cavalo;the horse
+o pássaro;the bird
+o animal;the animal
+os animais;the animals
+a formiga;the ant
+a abelha;the bee
+os pássaros;the birds
+a borboleta;the butterfly
+a vaca;the cow
+o cachorro;the dog
+os gatos;the cats
+o pato;the duck
+o elefante;the elephant
+a mosca;the fly
+os cavalos;the horses
+o inseto;the insect
+o macaco;the monkey
+o tubarão;the shark
+a cobra;the snake
+a aranha;the spider
+o tigre;the tiger
+a tartaruga;the turtle
+o lobo;the Wolf
+a fazenda;the farm
+o leão;the lion
+o rato;the mouse
+a cozinha;the kitchen
+a faca;the knife
+a limonada;the lemonade
+o limão;the lemon
+a comida;the food
+a refeição;the meal
+a carne;the meat
+a cebola;the onion
+a laranja;the orange
+a massa;the pasta
+a pimenta;the pepper
+o prato;the plate
+o porco;the pig
+a batata;the potato
+a receita;the recipe
+a arroz;the rice
+a salada;the Salad
+o sal;the salt
+o sanduíche;the sandwich
+o lanche;the snack
+a sopa;the soup
+azedo;sour
+a colher;the spoon
+o bife;the steak
+o morango;the strawberry
+o açúcar;the sugar
+o gosto;the taste
+o chá;the tea
+o tomate;the tomato
+o vegetal;the vegetable
+o vinho;the wine
+o alimento;the food
+o azeite;the olive oil
+o menu;the menu
+vegetariano;vegetarian
+ter;to have
+meu computador;my computer
+minha maçã;my apple
+teu carro;your car
+teus gatos;your cats
+suas batatas;her potatoes
+nossa casa;our house
+nossos cachorros;our dogs
+nossas filhas;our daughters
+seus livros;their books
+meus chocolates;my chocolates
+tua mãe;your mother
+minhas caixas;my boxes
+tuas chaves;your keys
+sua voz;her voice
+nosso país;our country
+seu chuveiro;her shower
+o chapéu;the hat
+o sapato;the shoe
+a saia;the skirt
+o vestido;the dress
+a camisa;the shirt
+as roupas;the clothes
+a bolsa;the bag
+o cinto;the belt
+a blusa;the blouse
+a bota;the boot
+a capa;the cape
+a fantasia;the costume
+vestir;to dress
+a luva;the glove
+o casaco;the coat
+os jeans;the jeans
+as calças;the pants
+o bolso;the pocket
+a sandália;the sandal
+o traje;the outfit
+o agasalho;the warm clothing
+a carteira;the wallet
+o relógio;the watch
+a meia;the sock
+qual;which
+quanto;how much
+a resposta;the answer
+a pergunta;the question
+quando;when
+onde;where
+quem;who
+branco;white
+vermelho;red
+azul;blue
+amarelo;yellow
+verde;green
+a cor;the color
+preto;black
+colorido;colorful
+colorir;to color
+rosa;pink
+roxo;purple
+ver;to see
+comer;to eat
+beber;to drink
+tocar;to touch
+ouvir;to hear
+achar;to find
+acontecer;to happen
+errar;to err
+lembrar;to remember
+conversar;to talk
+ir;to go
+fazer;to do
+tomar;to drink
+saber;to know
+dizer;to say
+querer;to want
+ficar;to stay
+dar;to give
+vir;to come
+aceitar;to accept
+falar;to speak
+deixar;to let
+precisar;to need
+pensar;to think
+esperar;to wait
+passar;to pass
+gostar;to like
+sentir;to feel
+chegar;to arrive
+voltar;to return
+encontrar;to meet
+tentar;to try
+parar;to stop
+olhar;to look
+entender;to understand
+ajudar;to help
+pegar;to take
+usar;to use
+trabalhar;to work
+perder;to lose
+caminhar;to stroll
+andar;to walk
+abrir;to open
+trazer;to bring
+desculpar;to forgive
+seguir;to follow
+colocar;to put
+amar;to love
+mudar;to change
+esquecer;to forget
+mostrar;to show
+ganhar;to win
+manter;to keep
+pagar;to pay
+perguntar;to ask
+jogar;to play
+dormir;to sleep
+escrever;to write
+ler;to read
+partir;to leave
+correr;to run
+comprar;to buy
+terminar;to end
+cair;to fall
+vender;to sell
+decidir;to decide
+medir;to measure
+o que?;what?
+porque;because
+mas;but
+se;if
+ou;or
+do homem;the man's
+da mulher;the woman's
+ao médico;to the doctor
+à filha;to the daughter
+dos jornais;the newspapers'
+das mães;the mothers'
+apesar;although
+nos sofás;on the couches
+nas cadeiras;on the chairs
+é dela;it is hers
+daqui;from here
+é dele;it is his
+desta cidade;from this city
+neste hotel;in this hotel
+deste bairro;from this neighborhood
+nesta cozinha;in this kitchen
+escrevi nele;I wrote on it
+naquela sala;in that room
+naquele ônibus;in that bus
+eu falei daquilo;I spoke about that
+daquela música;of that song
+pensei naquilo;I thought about that
+àquele lugar;to that place
+daquele jeito;in that manner
+daquelas saias;from those skirts
+àquela mulher;to that woman
+daqueles homens;of those men
+nela;on her
+escreva nisto;write on this
+nestas mesas;on these tables
+destas nuvens;of these clouds
+naquelas cadeiras;on those chairs
+entre os dois;between the two
+durante;during
+no Brasil;in Brazil
+na Inglaterra;in England
+em três minutos;in three minutes
+sobre;about
+desde;since
+até;until
+para você;for you
+sem ele;without him
+ontem;yesterday
+hoje;today
+amanhã;tomorrow
+o calendário;the calendar
+a segunda-feira;the Monday
+a terça-feira;the Tuesday
+a quarta-feira;the Wednesday
+a quinta-feira;the Thursday
+a sexta-feira;the Friday
+o sábado;the Saturday
+o domingo;the Sunday
+o ano;the year
+a temporada;the season
+o prazo;the deadline
+a semana;the week
+o mês;the month
+minha vez;my turn
+a hora;the hour
+o momento;the moment
+janeiro;January
+fevereiro;February
+março;March
+abril;April
+maio;May
+junho;June
+julho;July
+agosto;August
+setembro;September
+outubro;October
+novembro;November
+dezembro;December
+o verão;the summer
+o outono;the autumn
+o inverno;the winter
+a primavera;the spring
+tarde;afternoon
+o século;the century
+o minuto;the minute
+a época;the era
+o tempo;the time
+o período;the period
+a etapa;the stage
+a festa;the party
+a fase;the phase
+a década;the decade
+o instante;the instant
+a geração;the generation
+a juventude;the youth
+o segundo;the second
+o ciclo;the cycle
+a estação;the season
+a duração;the duration
+o nascimento;the birth
+a data;the date
+a manhã;the morning
+o início;the start
+a feira;the market
+o festival;the festival
+o aniversário;the birthday
+a mãe;the mother
+o pai;the father
+o filho;the son
+o irmão;the brother
+o tio;the uncle
+a família;the family
+o marido;the husband
+a mamãe;the mommy
+o papai;the daddy
+o avô;the grandfather
+o bebê;the baby
+o primo;the cousin
+o neto;the grandson
+o nome;the name
+o sobrinho;the nephew
+o sobrenome;the last name
+a comunidade;the community
+grande;big
+pequeno;little
+alto;tall
+curto;short
+a medida;the measure
+comprido;long
+o tamanho;the size
+justo;tight
+largo;wide
+enorme;huge
+mesmo;same
+o maestro;the conductor
+o estudante;the student
+o doutor;the doctor
+o diretor;the principal
+o chefe;the boss
+o rei;the king
+o secretário;the secretary
+o autor;the author
+a autoridade;the authority
+o modelo;the model
+o juiz;thejudge
+o promotor;the prosecutor
+o guarda;the guard
+o representante;the representative
+o professor;the teacher
+o aluno;the student
+o escritor;the writer
+o empresário;the entrepreneur
+o porta-voz;the spokesman
+o advogado;the lawyer
+o capitão;the captain
+o artista;the artist
+o jornalista;the journalist
+o coronel;the colonel
+o leitor;the reader
+o príncipe;the prince
+o pintor;the painter
+o pesquisador;the researcher
+o comandante;the commander
+o agente;the agent
+o usuário;the user
+o dono;the owner
+o especialista;the specialist
+a profissão;the profession
+o conselheiro;the adviser
+o espectador;the viewer
+o bispo;the bishop
+o trabalho;the work
+o emprego;the job
+o arquiteto;the architect
+o químico;the chemist
+o motorista;the driver
+o engenheiro;the engineer
+o fazendeiro;the farmer
+o pescador;the fisherman
+o gerente;the manager
+a ocupação;the occupation
+o policial;the police officer
+o carteiro;the postman
+o trabalhador;the worker
+a especialidade;the specialty
+o oficial;the official
+o profissional;the professional
+a mesa;the table
+a cama;the bed
+a cadeira;the chair
+a colher;the spoon
+o telefone;the telephone
+a televisão;the television
+o berço;the crib
+a janela;the window
+o espelho;the mirror
+o lustre;the lamp
+o escritório;the office
+a porta;the door
+a parede;the wall
+o forno;the oven
+o teto;the ceiling
+o chão;the floor
+o apartamento;the apartment
+a sacada;the balcony
+o banheiro;the bathroom
+o banho;the bath
+o cobertor;the blanket
+o tapete;the carpet
+limpo;clean
+limpar;to clean
+o sofá;the couch
+a cortina;the curtain
+quinto andar;fifth floor
+a geladeira;the fridge
+o móvel;the piece of furniture
+o portão;the gate
+o aquecimento;the heating
+a casa;the house
+a lâmpada;the light bulb
+a luz;the light
+a tomada;the plug
+o travesseiro;the pillow
+o quarto;the bedroom
+o xampu;the shampoo
+o chuveiro;the shower
+o sabão;the soap
+a escada;the stairs
+a ferramenta;the tool
+a toalha;the towel
+o brinquedo;the toy
+o muro;the wall
+a fonte;the source
+a estrutura;the structure
+a reforma;the reform
+o óleo;the oil
+o lençol;the sheet
+o barbeador;the shaver
+o centímetro;the centimeter
+o grama;the gram
+o quilo;the kilo
+o quilômetro;the kilometer
+o litro;the liter
+o lote;the batch
+o trimestre;the trimester
+o total;the total
+o metro;the meter
+a média;the average
+doente;sick
+velho;old
+jovem;young
+bonito;beautiful
+maior;bigger
+primeiro;first
+melhor;better
+novo;new
+possível;possible
+importante;important
+verdadeiro;true
+real;real
+diferente;different
+pessoal;personal
+duro;hard
+militar;military
+mundial;worldwide
+público;public
+popular;popular
+menor;smaller
+forte;strong
+principal;main
+único;unique
+seguro;safe
+humano;human
+cultural;cultural
+suficiente;sufficient
+vago;vague
+impossível;impossible
+pior;worse
+simples;simple
+nacional;national
+industrial;industrial
+familiar;familiar
+mau;evil
+responsável;responsible
+pobre;poor
+franco;frank
+histórico;historic
+natural;natural
+definitivo;definitive
+rico;rich
+recente;recent
+regional;regional
+preciso;precise
+muito;much
+último;last
+calma;calm
+incrível;incredible
+barato;cheap
+frio;cold
+confortável;comfortable
+certo;correct
+perigoso;dangerous
+querido;dear
+difícil;difficult
+sujo;dirty
+seco;dry
+vazio;empty
+excelente;excellent
+caro;expensive
+famoso;famous
+rápido;fast
+pouco;little
+estrangeiro;foreign
+fácil;easy
+existir;to exist
+produzir;to produce
+provar;to prove
+sonhar;to dream
+aparecer;to appear
+apresentar;to introduce
+procurar;to search
+respeitar;to respect
+caber;to fit
+começar;to begin
+acabar;to finish
+contar;to count
+parecer;to seem
+fechar;to close
+servir;to serve
+assinar;to sign
+entrar;to enter
+importar;to import
+depender;to depend
+roubar;to steal
+sentar;to sit
+aprender;to learn
+virar;to turn
+escolher;to choose
+escutar;to listen
+enviar;to send
+responder;to answer
+mentir;to lie
+construir;to build
+preferir;to prefer
+explicar;to explain
+convidar;to invite
+envolver;to involve
+crescer;to grow
+concordar;to agree
+oferecer;to offer
+agradecer;to thank
+cantar;to sing
+ensinar;to teach
+chorar;to cry
+juntar;to unite
+guardar;to keep
+viajar;to travel
+voar;to fly
+estudar;to study
+atrasar;to delay
+julgar;to judge
+mover;to move
+visitar;to visit
+queimar;to burn
+rir;to laugh
+melhorar;to improve
+apontar;to point
+gritar;to shout
+falhar;to fail
+beijar;to kiss
+carregar;to charge
+encher;to fill
+montar;to mount
+treinar;to train
+arrumar;to tidy up
+observar;to observe
+cuidar;to take care
+acordar;to wake up
+machucar;to hurt
+entregar;to deliver
+tanto;so much
+ali;over there
+cedo;early
+especialmente;especially
+somente;only
+aonde;to where
+atualmente;currently
+praticamente;practically
+embaixo;below
+geralmente;generally
+absolutamente;absolutely
+mal;bad
+tão alto;so tall
+enquanto;While
+além;beyond
+pesado demais;too heavy
+através;through
+entanto;however
+devagar;slowly
+grátis;free
+tantos;so many
+depois;after
+novamente;once again
+só;only
+já cheguei;I have already arrived
+sempre;ever
+antes;before
+completamente;completely
+aqui;here
+definitivamente;definitely
+facilmente;easily
+igualmente;equally
+exatamente;exactly
+longe;far away
+mais;more
+finalmente;finally
+imediatamente;immediately
+dentro;inside
+menos;less
+felizmente;fortunately
+quase;almost
+perto;near
+nunca;never
+agora;now
+fora;outside
+principalmente;mainly
+provavelmente;probably
+recentemente;recently
+simplesmente;simply
+logo;soon
+assim;like this
+então;so
+lá;there
+também;also
+acima;above
+normalmente;normally
+ainda;still
+o restaurante;the restaurant
+a praia;the beach
+o hotel;the hotel
+o jardim;the garden
+o aeroporto;the airport
+a rua;the street
+a cidade;a cidade
+o castelo;o castelo
+a igreja;the church
+o país;the country
+o mercado;the market
+a empresa;the company
+a zona;the zone
+a universidade;the university
+o banco;the bank
+o classe;the class
+o teatro;the theater
+a praça;the plaza
+a região;the region
+a sala;the living room
+o tribunal;the court
+a instituição;the institution
+a área;the area
+o hospital;the hospital
+o departamento;the department
+o terreno;the land
+a propriedade;the property
+o palácio;the palace
+a ilha;the island
+o povo;the people
+o território;the territory
+o edifício;the building
+o bairro;the neighborhood
+o museu;the museum
+o colégio;the school
+o parque;the park
+a estrada;the road
+a prisão;the prison
+o lar;the home
+a residência;the residence
+a fronteira;the border
+o pátio;the courtyard
+a avenida;the avenue
+o distrito;the district
+o continente;the continent
+o bar;the bar
+o município;the county
+o supermercado;the supermarket
+a biblioteca;the library
+o monte;the hill
+a distância;the distance
+o capital;the capital
+o local;the local
+a padaria;the bakery
+a livraria;the book store
+a ponte;the bridge
+o centro;the center
+o clube;the club
+a esquina;the street corner
+o campo;the field
+o estádio;the stadium
+a galeria;the gallery
+o carro;the car
+o mapa;the map
+a bola;the ball
+o dinheiro;the money
+o pé;the foot
+o computador;the computer
+a mala;the suitcase
+a moto;the motorcycle
+o olho;the eye
+o avião;the airplane
+a coisa;the thing
+a cabeça;the head
+o papel;the paper
+aos hospitais;to the hospitals
+às meninas;to the girls
+o dólar;the dollar
+o objeto;the object
+o texto;the text
+o filme;the movie
+o ouro;the gold
+a página;the page
+a revista;the magazine
+a corrente;the chain
+o documento;the document
+a banda;the band
+a foto;the photo
+o aparelho;the device
+o veículo;the vehicle
+a ponta;the tip
+o código;the code
+a peça;the part
+a máquina;the machine
+a moeda;the coin
+o motor;the engine
+a coluna;the column
+a bandeira;the flag
+o automóvel;the automobile
+a diferença;the difference
+a nota;the note
+a fotografia;the photography
+a roda;the wheel
+a caixa;the box
+a escova;the brush
+o pente;the comb
+o diário;the diary
+o envelope;the envelope
+o ventilador;the fan
+o teclado;the keyboard
+a licença;the license
+o pedaço;the piece
+o presente;the gift
+a tela;the screen
+a folha;the leaf
+a pilha;the battery
+o guarda-chuva;the umbrella
+o celular;the cell phone
+nós estamos;we are
+eu estou;I am
+eles estão;They are
+você está;you are
+o amigo;the friend
+o noivo;the groom
+a pessoa;the person
+o senhor;the older man
+a comissão;the commission
+a população;the population
+o cultura;the culture
+a associação;the association
+a revolução;the revolution
+o cidadão;the citizen
+o vizinho;the neighbor
+o colega;the coworker
+a assembleia;the assembly
+a audiência;the hearing
+o casal;the couple
+a fundação;the foundation
+a vítima;the victim
+a greve;the strike
+o indivíduo;the individual
+o turismo;the tourism
+o sindicato dos professores;the teacher's union
+a humanidade;the humanity
+a secretária;the secretary
+o inimigo;the enemy
+o costume;the custom
+a delegação;the delegation
+o sócio;the partner
+a testemunha;the witness
+o adulto;the adult
+o próximo;the next one
+a idade;the age
+o namorado;the boyfriend
+a criança;the child
+a multidão;the crowd
+o gênero;the genre
+a namorada;the girlfriend
+o grupo;the group
+o hóspede;the guest
+o casamento;the wedding
+a sociedade;the society
+a liberdade;the freedom
+a rainha;the queen
+dois;two
+três;three
+quatro;four
+cinco;five
+seis;six
+sete;seven
+oito;eight
+nove;nine
+dez;ten
+onze;eleven
+doze;twelve
+treze;thirteen
+quatorze;fourteen
+quinze;fifteen
+dezesseis;sixteen
+dezessete;seventeen
+dezoito;eighteen
+dezenove;nineteen
+vinte;twenty
+trinta;thirty
+quarenta;forty
+cinquenta;fifty
+sessenta;sixty
+setenta;seventy
+oitenta;eighty
+noventa;ninety
+cem;one hundred
+mil;thousand
+zero;zero
+um milhão;one million
+segundo;second
+terceiro;third
+quarto;fourth
+quinto;fifth
+sexto;sixth
+sétimo;seventh
+oitavo;eighth
+nono;ninth
+o número;the number
+a maioria;the majority
+o par;the pair
+a metade;the half
+o dobro;the double
+a tonelada;the tonne
+algum;some
+todo;all
+qualquer;any
+nenhum;none
+cada;each
+outro;other
+vários;several
+nadar;to swim
+chover;to rain
+pesar;to weigh
+sair;to leave
+evitar;to avoid
+por;to put
+realizar;to accomplish
+viver;to live
+obter;to get
+criar;to create
+conseguir;to attain
+tratar;to treat
+receber;to receive
+resolver;to solve
+considerar;to consider
+duvidar;to doubt
+salvar;to save
+pedir;to request
+continuar;to continue
+misturar;to mix
+exigir;to demand
+reconhecer;to recognize
+interessar;to interest
+derrotar;to defeat
+cortar;to cut
+recusar;to refuse
+dirigir;to drive
+poder;to be able to
+chamar;to call
+aumentar;to increase
+anunciar;to announce
+iniciar;to start
+levantar;to get up
+sustentar;to sustain
+merecer;to deserve
+pular;to jump
+odiar;to hate
+pertencer;to belong
+descansar;to rest
+custar;to cost
+cruzar;to cross
+gastar;to spend
+atuar;to act
+doer;to hurt
+sorrir;to smile
+fumar;to smoke
+telefonar;to phone
+lavar;to wash
+praticar;to practice
+explorar;to explore
+consertar;to fix
+empurrar;to push
+descrever;to describe
+cozinhar;to cook
+desenhar;to draw
+poupar;to save up
+reservar;to reserve
+estacionar;to park
+soar;to sound
+conferir;to check
+girar;to spin
+acender;to light
+introduzir;to introduce
+pescar;to fish
+acampar;to camp
+navegar;to browse
+assar;to bake
+secar;to dry
+fritar;to fry
+frear;to brake
+significar;to mean
+aguentar;to endure
+prometer;to promise
+comentar;to comment
+nascer;to be born
+expressar;to express
+negar;to deny
+desenvolver;to develop
+tirar;to take away
+adorar;to adore
+planejar;to plan
+controlar;to control
+comigo;with me
+contigo;with you
+conosco;with us
+ambos;both
+tudo;all
+mim;me
+ninguém;no one
+alguém;someone
+algo;something
+cujo;whose
+direto;direct
+original;original
+universal;universal
+máximo;maximum
+intelectual;intellectual
+independente;independent
+global;global
+múltiplo;multiple
+ideal;ideal
+comercial;commercial
+superior;higher
+lógico;logical
+triste;sad
+médio;medium
+fechado;closed
+doce;sweet
+profundo;deep
+fundamental;fundamental
+liberal;liberal
+puro;pure
+infantil;for children
+positivo;positive
+antigo;ancient
+particular;private
+clássico;classic
+urbano;urban
+chato;annoying
+radical;radical
+imediato;immediate
+revolucionário;revolutionary
+vital;vital
+negativo;negative
+mínimo;minimum
+nervoso;nervous
+vivo;alive
+rural;rural
+perfeito;perfect
+básico;basic
+formal;formal
+feminino;female
+ético;ethical
+tranquilo;calm
+livre;free
+grave;serious
+igual;same
+gratuito;free
+cheio;full
+ótimo;great
+pesado;heavy
+quente;hot
+interessante;interesting
+internacional;international
+baixo;low
+moderno;modern
+mensal;monthly
+legal;alright
+barulhento;noisy
+aberto;open
+raro;rare
+macio;soft
+especial;special
+estranho;strange
+ensolarado;sunny
+útil;useful
+morno;lukewarm
+semanal;weekly
+úmido;wet
+maravilhoso;wonderful
+espanhol;Spanish
+europeu;European
+norte-americano;North American
+francês;French
+chinês;Chinese
+argentino;Argentine
+mexicano;Mexican
+italiano;Italian
+americano;American
+britânico;British
+inglês;English
+estadunidense;US American
+cubano;Cuban
+a nação;the nation
+a pátria;the fatherland
+a série;the series
+o dicionário;the dictionary
+o diploma;the diploma
+o ensaio;the rehearsal
+o exame;the exam
+o dever de casa;the homework
+a instrução;the instruction
+o idioma;the language
+a lição;the lesson
+o parágrafo;the paragraph
+o lápis;the pencil
+a caneta;the pen
+o semestre;the semester
+o teste;the test
+somar;to add
+o exemplo;the example
+o problema;the problem
+o nível;the level
+a educação;the education
+o estudo;the study
+o título;the title
+o curso;the course
+o capítulo;the chapter
+a tarefa;the assignment
+a ausência;the absence
+a leitura;the reading
+a inteligência;the intelligence
+a seção;the section
+o conhecimento;the knowledge
+a discussão;the discussion
+a academia;the academy
+a faculdade;the college
+a explicação;the explanation
+o tema;the theme
+a solução;the solution
+a disciplina;the discipline
+o intercâmbio;the exchange
+a introdução;the introduction
+a redação;the essay
+a escola;the school
+a geografia;the geography
+o instituto;the institute
+o conselho;the advice
+a regra;the rule
+o mestre;the master
+publicar;to publish
+dedicar;to dedicate
+África;Africa
+América;America
+Ásia;Asia
+brasileiro;Brazilian
+Brasil;Brazil
+China;China
+chinês;Chinese
+Inglaterra;England
+Europa;Europe
+França;France
+francês;French
+Alemanha;Germany
+alemão;German
+italiano;Italian
+Itália;Italy
+Espanha;Spain
+o ônibus;the bus
+o leste;the east
+o voo;the flight
+o guia;the guide
+o norte;the north
+o passageiro;the passenger
+o passaporte;the passport
+o piloto;the pilot
+a vista;the view
+o sul;the south
+o táxi;the taxi
+o pneu;the tire
+o turista;the tourist
+o trânsito;the traffic
+o trem;the train
+as férias;the vacation
+a visita;the visit
+o oeste;the west
+o metrô;the subway
+o evento;the event
+a rodoviária;the bus terminal
+o barco;the boat
+a direita;the right
+o lado;the side
+o princípio;the principle
+a entrada;the entrance
+o exterior;the exterior
+a saída;the exit
+a chegada;the arrival
+a busca;the search
+o sinal;the traffic light
+a orientação;the orientation
+a viagem;the trip
+o fim;the end
+o caminho;the way
+a direção;the direction
+a frente;the front
+o interior;the interior
+a esquerda;the left
+o começo;the beginning
+a parada;the stop
+o topo;the top
+a rota;the route
+a alegria;the joy
+o amor;the love
+a felicidade;the happiness
+o sorriso;the smile
+a tensão;the tension
+a amizade;the friendship
+feliz;happy
+o medo;the fear
+a dor;the pain
+a esperança;the hope
+a personalidade;the personality
+a solidão;the loneliness
+o prazer;the pleasure
+a paixão;the passion
+o humor;the humor
+a satisfação;the satisfaction
+a sensibilidade;the sensibility
+a comemoração;the celebration
+a curiosidade;the curiosity
+a glória;the glory
+a emoção;the emotion
+o desejo;the desire
+o sentimento;the feeling
+a certeza;the certainty
+a falta;the lack
+a pena;the pity
+o respeito;the respect
+a culpa;the guilt
+a vontade;the will
+tímido;shy
+ansioso;anxious
+calmo;calm
+confundir;to confuse
+o sonho;the dream
+o divertimento;the fun
+o ódio;the hate
+o beijo;the kiss
+o riso;the laughter
+assustar;scare
+sério;serious
+surpreso;surprised
+preocupar;to worry
+a intensidade;the intensity
+a percepção;the perception
+o jogador;the player
+a equipe;the team
+o exercício;the exercise
+o torneio;the tournament
+o campeão;the champion
+o campeonato;the championship
+a carreira;the career
+o esporte;the sport
+a final;the final
+a vitória;the victory
+a atividade;the activity
+o atleta;the athlete
+o basquete;the basketball
+a bicicleta;the bicycle
+o técnico;the coach
+a competição;the competition
+o jogo;the game
+o gol;the goal
+o ginásio;the gymnasium
+o passatempo;the hobby
+o salto;the jump
+o lazer;the recreation
+a partida;the match
+o membro;the member
+o prêmio;the award
+o passeio;the tour
+a navegação;the navigation
+o futebol;the soccer
+o time;the team
+o tênis;the tennis
+o integrante;the member
+a pista;the track
+a luta;the fight
+a defesa;the defense
+contra;against
+o sistema;the system
+o tipo;the type
+o processo;the process
+a realidade;the reality
+a mudança;the change
+a informação;the information
+a verdade;the truth
+a ação;the action
+a paz;the peace
+o setor;the sector
+a imagem;the image
+o movimento;the movement
+a possibilidade;the possibility
+a capacidade;the capacity
+o efeito;the effect
+a investigação;the investigation
+a necessidade;the need
+o programa;the program
+o poder;the power
+a qualidade;the quality
+o controle;the control
+o resultado;the result
+o conjunto;the set
+a importância;the importance
+o objetivo;the objective
+a origem;the origin
+a existência;the existence
+o crescimento;the growth
+a formação;the formation
+o sucesso;the success
+a construção;the construction
+a prática;the practice
+a memória;the memory
+a expressão;the expression
+a consciência;the consciousness
+a criação;the creation
+o aspecto;the aspect
+a olhada;the glance
+a sorte;the luck
+a ocasião;the occasion
+o assunto;the subject matter
+o conteúdo;the content
+o julgamento;the judgment
+a seleção;the selection
+a rede;the network
+o acesso;the access
+a visão;the vision
+a aplicação;the application
+o pensamento;the thought
+a altura;the height
+o perigo;the danger
+a cena;the scene
+a personagem;the character
+a referência;the reference
+a intervenção;the intervention
+a circunstância;the circumstance
+o propósito;the purpose
+o caso;the case
+a decisão;the decision
+o atraso;the delay
+a ajuda;the help
+a mentira;the lie
+a senha;the password
+o plano;the plan
+descobrir;to discover
+a intenção;the intention
+a sensação;the sensation
+o tom;the tone
+o gesto;the gesture
+a influência;the influence
+a beleza;the beauty
+a relação;the relationship
+a reunião;the meeting
+a unidade;the unit
+a consequência;the consequence
+a versão;the version
+a tradição;the tradition
+a situação;the situation
+o ato;the act
+a conferência;the conference
+a perda;the loss
+a distribuição;the distribution
+a presença;the presence
+a edição;the edition
+a identidade;the identity
+a apresentação;the presentation
+a iniciativa;the initiative
+o comportamento;the behavior
+o compromisso;the commitment
+o erro;the error
+a divisão;the division
+a continuação;the continuation
+a mente;the mind
+o canal;the channel
+o posto;the post
+a sombra;the shadow
+a margem;the margin
+a missão;the mission
+a preocupação;the concern
+a resistência;the resistance
+o esforço;the effort
+a perspectiva;the perspective
+o fator;the factor
+a categoria;the category
+a concentração;the concentration
+o contexto;the context
+o motivo;the reason
+a abertura;the opening
+a honra;the honor
+a proposta;the proposal
+a sessão;the session
+a experiência;the experience
+o impacto;the impact
+o domínio;the domain
+o índice;the index
+a composição;the composition
+a exceção;the exception
+a definição;the definition
+o cheiro;the smell
+a avaliação;the evaluation
+o fracasso;the failure
+a classificação;the classification
+o cargo;the job role
+a extensão;the extension
+a surpresa;the surprise
+o benefício;the benefit
+o lugar;the place
+acreditar;to believe
+participar;to participate
+formar;to form
+diminuir;decrease
+repetir;repeat
+comprovar;prove
+abandonar;to abandon
+recuperar;to recover
+aplicar;to apply
+demonstrar;to demonstrate
+defender;defend
+analisar;analyze
+subir;move up
+garantir;guarantee
+definir;to define
+cobrir;to cover
+acrescentar;add
+assumir;take on
+atender;answer
+sofrer;suffer
+impedir;hinder
+eliminar;to eliminate
+preparar;prepare
+romper;burst
+a saúde;the health
+o sangue;the blood
+o tratamento;the treatment
+a boca;the mouth
+a doença;the disease
+o coração;the heart
+o médico;the doctor
+o risco;the risk
+a operação;the operation
+o rosto;the face
+a pressão;the pressure
+o braço;the arm
+a medicina;the medicine
+a perna;the leg
+o pescoço;the neck
+o lábio;the lip
+o corpo;the body
+o ouvido;the inner ear
+o sintoma;the symptom
+o dedo;the finger
+o peito;the chest
+a emergência;the emergency
+o diagnóstico;the diagnosis
+a dose;the dose
+o órgão;the organ
+a clínica;the clinic
+a gravidade;the gravity
+a lágrima;the tear
+o nariz;the nose
+o cabelo;the hair
+o remédio;the medicine
+a língua;the tongue
+a circulação;the circulation
+a mão;the hand
+o acidente;the accident
+a ambulância;the ambulance
+o tornozelo;the ankle
+as costas;the back
+o cuidado;the caution
+o dentista;the dentist
+o joelho;the knee
+o músculo;the muscle
+a unha;the nail
+o enfermeiro;the nurse
+o paciente;the patient
+a farmácia;the drugstore
+o ombro;the shoulder
+o enjoo;the nausea
+o estômago;the stomach
+a garganta;the throat
+o vírus;the virus
+a voz;the voice
+o componente;the component
+a proteção;the protection
+o organismo;the organism
+a postura;the posture
+o dente;the tooth
+a espera;the wait
+a pele;the skin
+o convênio;the medical insurance
+o curativo;the bandage
+escrevendo;writing
+comendo;eating
+caminhando;walking
+bebendo;drinking
+lendo;reading
+dormindo;sleeping
+nadando;swimming
+vendo;seeing
+cozinhando;cooking
+correndo;running
+pagando;paying
+chovendo;raining
+tocando;touching
+procurando;searching
+seguindo;following
+tratando;treating
+tomando;taking
+incluindo;including
+achando;finding
+acontecendo;happening
+desculpando;forgiving
+errando;making mistakes
+amando;loving
+tirando;removing
+lembrando;remembering
+conversando;talking
+indo;going
+tendo;having
+fazendo;doing
+sabendo;knowing
+dizendo;saying
+querendo;wanting
+ficando;staying
+dando;giving
+vindo;coming
+falando;speaking
+precisando;needing
+pensando;thinking
+esperando;waiting
+passando;passing
+gostando;liking
+sentindo;feeling
+chegando;arriving
+voltando;returning
+encontrando;finding
+parando;stopping
+olhando;looking at
+entendendo;understanding
+ajudando;helping
+pegando;grabbing
+usando;using
+trabalhando em;working on
+perdendo;losing
+tentando;trying
+cuidando;caring
+lançando;launching
+machucando;hurting
+medindo;measuring
+o estilo;the style
+a literatura;the literature
+o ritmo;the rhythm
+a poesia;the poetry
+o som;the sound
+o instrumento;the instrument
+a moda;the fashion
+o concerto;the concert
+a orquestra;the orchestra
+a ópera;the opera
+a atuação;the acting
+o palco;the stage
+o musical;the musical
+a pintura;the painting
+o ator;the actor
+a atriz;the actress
+o álbum;the album
+a arte;the art
+a câmera;the camera
+a dança;the dance
+dançar;to dance
+o desenho;the drawing
+o tambor;the drum
+a exposição;the exhibition
+filmar;to film
+o violão acústico;the acoustic guitar
+o músico;the musician
+pintar;to paint
+fotografar;to photograph
+o piano;the piano
+o assento;the seat
+estrelar;to star
+o estúdio;the studio
+o vídeo;the video
+o panorama;the panorama
+o cinema;the movie theater
+o disco;the disc
+a novela;the soap opera
+o cantor;the singer
+o concurso;the contest
+a dificuldade;the difficulty
+a norma;the standard
+a execução;the execution
+a manutenção;the maintenance
+o passo;the step
+a consideração;the consideration
+o esquema;the scheme
+a transformação;the transformation
+a infância;the childhood
+a obrigação;the obligation
+a coleção;the collection
+o excesso;the excess
+a homenagem;the tribute
+a virtude;the virtue
+a história;the history
+o procedimento;the procedure
+o círculo;the circle
+a publicação;the publication
+o crítico;the critic
+a exploração;the exploration
+a vantagem;the advantage
+a atitude;the attitude
+a instalação;the installation
+o transporte;the transport
+a dignidade;the dignity
+o produtor;the producer
+a opinião;the opinion
+a comunicação;the communication
+a variedade;the variety
+a quantidade;the amount
+a aventura;the adventure
+a oportunidade;the opportunity
+o sabor;the flavor
+a conclusão;the conclusion
+a opção;the option
+a destruição;the destruction
+a continuidade;the continuity
+o símbolo;the symbol
+a vigilância;the surveillance
+a confusão;the confusion
+a descrição;the description
+a ilusão;the illusion
+o perfil;the profile
+a fama;the fame
+a facilidade;the ease
+a maneira;the manner
+o dano;the damage
+a responsabilidade;the responsibility
+o desaparecimento;the disappearance
+a condição;the condition
+a razão;the reason
+a função;the function
+a chave;the key
+o ataque;the attack
+o detalhe;the detail
+a questão;the question
+o relatório;the report
+a reação;the reaction
+a força;the force
+a ideia;the idea
+a figura;the figure
+o resto;the rest
+a causa;the cause
+a parte;the part
+a batalha;the battle
+talvez;perhaps
+o ponto;the point
+a análise;the analysis
+a ciência;the science
+o conceito;the concept
+a teoria;the theory
+a superfície;the surface
+a tecnologia;the technology
+a velocidade;the speed
+o método;the method
+o volume;the volume
+a temperatura;the temperature
+o elemento;the element
+a filosofia;the philosophy
+o equilíbrio;the balance
+o limite;the limit
+o cientista;the scientist
+a fórmula;the formula
+a hipótese;the hypothesis
+a tese;the thesis
+a substância;the substance
+o laboratório;the laboratory
+a profundidade;the depth
+a proporção;the proportion
+a descoberta;the discovery
+a observação;the observation
+o núcleo;the nucleus
+a potência;the potency
+o futuro;the future
+a biologia;the biology
+o perito;the expert
+a invenção;the invention
+a matemática;the mathematics
+a física;the physics
+o plástico;the plastic
+a prova;the proof
+a pesquisa;the research
+pesquisar;to research
+a estatística;the statistic
+o fenômeno;the phenomenon
+a energia;the energy
+a conversa;the conversation
+a imprensa;the press
+a palavra;the word
+o artigo;the article
+a linguagem;the language
+o telefonema;the phone call
+a mensagem;the message
+a notícia;the news
+o argumento;the argument
+o segredo;the secret
+o comunicado;the communication
+o contato;the contact
+o grito;the shout
+o comentário;the comment
+a internet;the Internet
+o silêncio;the silence
+a frase;the phrase
+a entrevista;the interview
+o endereço;the Address
+o cabo;the cable
+o apelo;the appeal
+o postal;the postal
+o selo;the seal
+a manchete;the headline
+o convite;the invitation
+o correio;the mail
+o bilhete;the ticket
+anotar;to take note
+imprimir;to print
+o rádio;the radio
+a tradução;the translation
+a difusão;the diffusion
+o entendimento;the understanding
+a interpretação;the interpretation
+a publicidade;the advertising
+o barulho;the noise
+a síntese;the synthesis
+a agência;the agency
+a torre;the tower
+a flor;the flower
+a árvore;the tree
+o céu;the sky
+o rio;the river
+a lua;the moon
+o sol;the sun
+o mundo;the world
+a chuva;the rain
+o fogo;the fire
+a terra;the soil
+o ar;the air
+a natureza;the nature
+a espécie;the species
+a evolução;the evolution
+o calor;the heat
+a madeira;the wood
+a pedra;the stone
+a célula;the cell
+o universo;the universe
+o clima;the climate
+o gás;the gas
+o planeta;the planet
+o cérebro;the brain
+a paisagem;the landscape
+a montanha;the mountain
+a raiz;the root
+a floresta;the forest
+o osso;the bone
+o ambiente;the environment
+a planta;the plant
+a estrela;the star
+o vento;the wind
+o espaço;the space
+a rosa;the rose
+a areia;the sand
+o raio;the lightning
+a nuvem;the cloud
+a eletricidade;the electricity
+a neblina;the fog
+o lago;the lake
+a rocha;the rock
+o mar;the sea
+a neve;the snow
+nevar;to snow
+o temporal;the storm
+a cachoeira;the waterfall
+a conservação;the conservation
+o litoral;the coast
+a oferta;the offer
+o negócio;the business
+o contrato;the contract
+o interesse;the interest
+a taxa;the fee
+o comércio;the commerce
+o preço;the price
+a indústria;the industry
+a venda;the sale
+a dívida;the debt
+o crédito;the credit
+a promoção;the promotion
+a fortuna;the fortune
+o financiamento;the financing
+o custo;the cost
+o produto;the product
+o anúncio;the advertisement
+a consulta;the consultation
+a conta;the account
+o cartão;the card
+a chance;the chance
+o cliente;the client
+o desconto;the discount
+o Euro;the Euro
+a fábrica;the factory
+a administração;the administration
+a ordem;the order
+a organização;the organization
+o pagamento;the payment
+o produção;the production
+alugar;to rent
+o recurso;the resource
+o salário;the salary
+o vendedor;the salesman
+o serviço;the service
+a loja;the store
+o pessoal;the staff
+o imposto;the tax
+a tendência;the trend
+a diminuição;the decrease
+a expansão;the expansion
+a integração;the integration
+o rival;the rival
+o porto;the port
+o investimento;the investment
+a crise;the crisis
+a economia;the economy
+o petróleo;the petroleum
+econômico;economical
+a vida;the life
+o deus;the god
+o espírito;the spirit
+a alma;the soul
+a fé;the faith
+o anjo;the angel
+a religião;the religion
+católico;catholic
+religioso;religious
+a graça;the grace
+o Natal;the Christmas
+a crença;the belief
+a catedral;the cathedral
+a morte;the death
+o fantasma;the ghost
+a mesquita;the mosque
+a reza;the prayer
+a libertação;the release
+a reflexão;the reflection
+o signo;the sign
+o destino;the destiny
+o governo;the government
+o presidente;the president
+a guerra;the war
+o ministro;the minister
+o segurança;the security guard
+o político;the politician
+o congresso;the congress
+a justiça;the justice
+o ministério;the ministry
+o exército;the army
+a campanha;the campaign
+a democracia;the democracy
+a oposição;the opposition
+socialista;socialist
+a violência;the violence
+a constituição;the constitution
+o líder;the leader
+o prefeito;the mayor
+o discurso;the speech
+municipal;municipal
+a declaração;the declaration
+federal;federal
+o diálogo;the dialogue
+o candidato;the candidate
+a presidência;the presidency
+a prefeitura;the city hall
+o orçamento;the budget
+a estratégia;the strategy
+o governador;the governor
+a aliança;the alliance
+democrático;democratic
+a corrupção;the corruption
+a negociação;the negotiation
+a cooperação;the cooperation
+a solidariedade;the solidarity
+comunista;communist
+estatal;state-owned
+a agricultura;the agriculture
+o déficit;the deficit
+presidencial;presidential
+o embaixador;the ambassador
+a pobreza;the poverty
+a estabilidade;the stability
+a riqueza;the wealth
+o inflação;the inflation
+a aprovação;the approval
+a lei;the law
+o senador;the senator
+institucional;institutional
+eleitoral;electoral
+a base;the base
+o general;the general
+o projeto;the project
+a diplomacia;the diplomacy
+político;political
+o estado;the state
+o voto;the vote
+votar;to vote
+o escândalo;the scandal
+a igualdade;the equality
+o prestígio;the prestige
+a transição;the transition
+a independência;the independence
+o partido político;the political party
+Bom dia;Good morning
+Boa tarde;Good afternoon
+Boa noite;Good evening
+Tem certeza?;Are you sure?
+Vá em frente;Go ahead
+Que dia bonito!;What a nice day!
+Que horas são?;What time is it?
+Você quer um pouco de água?;Would you like some water?
+Você poderia me ajudar a lavar a louça?;Could you help me to wash the dishes?
+Está muito quente hoje!;It’s too hot today!
+Você quer vir aqui e jogar um pouco de videogame?;Would you like to come over and play some videogame?
+Eu tenho que ir ao supermercado;I have to go to the supermarket
+Você quer ver um filme?;Would you like to watch a movie?
+Você está acordado?;Are you awake?
+Que dia é hoje?;What day is it today?
+Eu estou me sentindo doente hoje;I’m feeling sick today
+Estou indo um pouco atrasado;I’m running a little late
+O que você gostaria para o jantar?;What would you like for dinner?
+Eu vou tomar um banho e ir para a cama;I’m going to take a shower and go to bedEu tenho que acordar às 7 horas;I have to wake up at 7
+Estou muito cansado;I’m too tired
+Eu vou para a cama;I’m going to bed
+Boa noite. Bons sonhos;Good night. Sweet dreams
+O que tem para o café da manhã hoje?;What’s for breakfast today?
+Eu não dormi muito bem, eu tive um pesadelo;I didn’t sleep very well, I had a bad dream
+Como foi a escola hoje?;How was school today?
+Eu fiz uma prova e me saí bem;I took an exam and did well
+Você poderia arrumar a mesa, por favor?;Could you set the table, please?
+Estou com fome;I’m hungry
+Você gosta de viajar?;Do you like to travel?
+O almoço está pronto?;Is lunch ready?
+Você pode ligar a luz?;Can you switch the light on?
+O que você gostaria de fazer esta noite?;What would you like to do this evening?
+Você alimentou o cachorro?;Have you fed the dog?
+Você gosta de animais?;Do you like animals?
+Eu preciso ir pra casa;I need to go home
+Como foi seu dia?;How was your day?
+Eu estarei no meu quarto;I’ll be in my room
+Tem alguma coisa boa na TV?;Is there anything good on TV?
+Você já viu esse filme?;Have you seen this movie?
+Vai fazer alguma coisa esta noite?;Are you up to anything this evening?
+Você quer pedir alguma coisa para comer?;Do you want to order something to eat?
+Você gosta de hambúrguer?;Do you like hamburguer?
+Posso entrar?;May I come in?
+Como foi o seu fim-de-semana?;How was your weekend?
+Não faço ideia;I have no idea
+Não importa;It doesn’t matter
+Estou com pressa;I’m in a hurry
+Estou de saída;I’m leaving
+Estou de férias;I’m on vacation
+Fica para a próxima;Maybe some other time
+De licença;On leave
+Por outro lado…;On the other hand…
+Estou indo resolver uma situação desastrosa;I’m going to save the day
+Obrigado;Thank you
+De nada;You’re welcome
+Tome cuidado;Be careful
+Você pode traduzir isso para mim?;Can you translate this for me?
+Não se preocupe;Don’t worry
+Todo mundo sabe isso;Everyone knows it
+Como você está hoje?;How are you today?
+Eu te desejo sorte!;I wish you Lucky
+Está tudo pronto;Everything is ready
+Você pode falar mais devagar?;Can you speak slower?
+Boa ideia!;Good idea!
+Socorro!;Help!
+Ele volta logo!;He’s coming soon
+Ela está certa;She is right
+Deixe-me pensar…;Let me think…
+Ele é muito famoso;He is very famous
+Como vai o trabalho?;How is work going?
+Eu já comi;I already ate
+Eu não consigo te ouvir;I can’t hear you
+Eu não consigo  compreender isso!;I can’t understand this!
+Eu não gosto dele;I don’t like him
+Eu não me sinto confortável com isso!;I don’t feel confortable with that!
+Eu não falo muito bem;I don’t speak very well
+Eu não quero isso!;I don’t want that!
+Eu não quero te incomodar;I don’t want to bother you
+Eu me sinto bem;I feel good
+Eu espero que você e tua esposa tenham uma boa viagem;I hope you and your wife have a nice trip
+Se você precisa da minha ajuda, por favor, me diga;If you need my help, please let me know
+Eu saio do trabalho às 6;I get off of work at 6
+Não, obrigado;No, thank you
+Sim, obrigado;Yes, thank you
+Eu tenho dor de cabeça;I have a headache
+Eu volto mais tarde;I’ll come back later
+Eu fico com alguma coisa;I’ll take it
+Eu te levo ao ponto de ônibus;I’ll take you to the bus stop
+Eu amo você;I love you
+Eu sou brasileiro;I’m brazilian
+Só um momento;Just a moment
+Eu estou indo te buscar;I’m coming to pick you up
+Eu vou sair;I’m going to leave
+Eu estou bem, e você?;I’m good, and you?
+Estou feliz;I’m happy
+Estou com fome;I’m hungry
+Sou casado;I’m married
+Eu não estou ocupado;I’m not busy
+Eu não sou casado;I’m not married
+Eu ainda não estou pronto;I’m not ready yet
+Eu não tenho certeza;I’m not sure
+Vamos praticar inglês;Let’s practice English
